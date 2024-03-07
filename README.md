@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-**Problem Statement:** Analyze a dataset containing information on marathon races and athletes, focusing on key variables such as **race distance**, **number of finishes**, **athlete performance**, **gender**, **age**, and **average speed**. Employ exploratory data analysis techniques to understand the relationships between these variables through visualizations, including bar plots, scatter plots with differentiation based on gender, box plots, and histograms.
+Analyze a dataset containing information on marathon races and athletes, focusing on key variables such as **race distance**, **number of finishes**, **athlete performance**, **gender**, **age**, and **average speed**. Employ exploratory data analysis techniques to understand the relationships between these variables through visualizations, including bar plots, scatter plots with differentiation based on gender, box plots, and histograms.
 
 -----
 
